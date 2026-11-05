@@ -368,3 +368,8 @@ footer {
   font-size: 1rem;
   font-weight: 600;
 }
+
+
+.photo-adjust {
+  object-position: center 35%;
+}
